@@ -29,7 +29,6 @@ Nhằm tái cấu trúc và chữa lành dòng lợi nhuận ròng, quy trình p
 ### 🛠️ Công Nghệ Sử Dụng
 * **Cloud Database:** Supabase (PostgreSQL) phục vụ truy vấn nâng cao, lưu trữ và kết hợp các bảng dữ liệu thành phần.
 * **Data Analytics:** Python (Pandas, NumPy) dùng để tính toán xu hướng, xử lý các logic kiểm toán tài chính và phân tích thống khai phá.
-* **Business Intelligence:** Power BI trực quan hóa các chỉ số sức khỏe tài chính và xây dựng kịch bản mô phỏng tối ưu hóa dòng tiền.
 
 ### 📁 Cấu Trúc Kho Lưu Trữ (Repository Structure)
 ```text
