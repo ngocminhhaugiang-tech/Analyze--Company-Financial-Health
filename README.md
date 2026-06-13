@@ -1,5 +1,4 @@
-# Phân Tích & Chẩn Đoán Sức Khỏe Tài Chính Doanh Nghiệp
-## Datathon 2026 - The Gridbreaker | Team Waffle
+# Financial Health Diagnostic & Operational Audit
 
 ### 📌 Tổng Quan Dự Án
 Dự án này tập trung vào việc phân tích chuyên sâu và đánh giá toàn diện **Sức khỏe tài chính doanh nghiệp** dựa trên tập dữ liệu thương mại điện tử ngành thời trang chuỗi 10 năm. Thông qua việc đào sâu các chỉ số tài chính cốt lõi, nhóm nghiên cứu đã bóc trần các lỗ hổng vận hành gây tổn thất dòng tiền, định lượng mức độ xói mòn lợi nhuận ròng và đề xuất các chiến lược tối ưu hóa để kiến tạo lộ trình tăng trưởng bền vững (Healthy Growth).
